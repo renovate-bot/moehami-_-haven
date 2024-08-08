@@ -1,4 +1,3 @@
-$ echo '{
     "logo": {
         "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
@@ -36,5 +35,4 @@ $ echo '{
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
-' | html-meta-tags
-<meta name="google-site-verification" content="amqXygv02J-ZQ0MUKEBUNtt3oIqT_Q-VL9FF46fdq2s" />
+
