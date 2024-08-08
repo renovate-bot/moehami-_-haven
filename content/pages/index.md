@@ -69,10 +69,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'twitter:card'
-      content: TeetCard
-    - type: MetaTag
-      property: 'og:site_name'
-      content: Gooooogle
+      property: google-site-verification
+      content: I1BLZjC9mWGo7VaJ0qN8KfJQq9eGot8eYh4A__vovDM
 type: PageLayout
 ---
