@@ -16,7 +16,7 @@ sections:
     actions:
       - label: صحيفة سودافووت
         altText: ''
-        url: 'https://sudafoot.com/'
+        url: 'https://www.facebook.com/share/p/1UDJkctWYczFjfCq/?mibextid=WC7FNe'
         showIcon: false
         icon: arrowRight
         iconPosition: right
