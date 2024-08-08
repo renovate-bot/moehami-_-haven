@@ -65,6 +65,7 @@ sections:
 seo:
   metaTitle: 'Home '
   metaDescription: Welcome to
+  metaGoogle: GoogleCom
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
