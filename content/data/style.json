@@ -1,13 +1,13 @@
 {
     "light": "#ffffff",
-    "dark": "#4A4A4A",
+    "dark": "#bc16c3",
     "neutral": "#E8E8EB",
     "neutralAlt": "#DCDCDC",
-    "primary": "#2a2a2a",
-    "fontBody": "sans",
-    "fontHeadlines": "sans",
+    "primary": "#fffefe",
+    "fontBody": "serif",
+    "fontHeadlines": "serif",
     "h1": {
-        "size": "6xl",
+        "size": "8xl",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
