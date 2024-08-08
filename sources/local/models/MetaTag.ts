@@ -23,7 +23,7 @@ export const MetaTag: Model = {
         'og:locale',
         'og:site_name',
         'og:video',
-        'twitter:card',
+        'google-site-verification',
         'twitter:site',
         'twitter:creator',
         'twitter:description',
