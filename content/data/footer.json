@@ -4,87 +4,8 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "\\<div style=\"text-align: right\">**الحصول على تأشيرة مصر للسودانيين بات يشغل الكثير من أبناء السودان بسبب زيادة الرغبة في دخول جمهورية مصر نسبة للأزمة القائمة في جزء من السودان وكذلك لسهولة الإقامة وإنخفاض تكلفة المعيشة في مصر، فضلاً عن تقارب العادات والتقاليد بين البلدين وعلاقات القرابة والمصاهرة الممتدة بين حدود الدولتين.**\\</div>\n\n[المقال من سورافووت](https://sudafoot.com/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%b4%d9%8a%d8%b1%d8%a9-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%8a%d9%86-2024-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84/https://sudafoot.com/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%b4%d9%8a%d8%b1%d8%a9-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%8a%d9%86-2024-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84/)\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "text": "**الحصول على تأشيرة مصر للسودانيين بات يشغل الكثير من أبناء السودان بسبب زيادة الرغبة في دخول جمهورية مصر نسبة للأزمة القائمة في جزء من السودان وكذلك لسهولة الإقامة وإنخفاض تكلفة المعيشة في مصر، فضلاً عن تقارب العادات والتقاليد بين البلدين وعلاقات القرابة والمصاهرة الممتدة بين حدود الدولتين.**\n\n[المقال من سورافووت](https://sudafoot.com/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%b4%d9%8a%d8%b1%d8%a9-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%8a%d9%86-2024-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84/https://sudafoot.com/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%b4%d9%8a%d8%b1%d8%a9-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%8a%d9%86-2024-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84/)\n",
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
@@ -103,7 +24,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create 24](https://www.netlify.com/platform/create/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
     "title": "دليل تأشيرة مصر للسودانيين 2024 .. "
