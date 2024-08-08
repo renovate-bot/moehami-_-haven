@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: MOe Haven
 sections:
   - type: GenericSection
     title:
