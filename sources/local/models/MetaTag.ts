@@ -21,7 +21,7 @@ export const MetaTag: Model = {
         'og:site_name',
         'og:video',
         'google-site-verification',
-        'google,
+        'google',
         'twitter:description',
         'twitter:title',
         'twitter:image',
