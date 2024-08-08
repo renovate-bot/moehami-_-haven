@@ -1,3 +1,4 @@
+{
     "logo": {
         "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
@@ -34,6 +35,5 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-
-
-
+    "title": "MOe Haven"
+}
