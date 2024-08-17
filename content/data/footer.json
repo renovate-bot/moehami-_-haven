@@ -5,15 +5,15 @@
     "legalLinks": [
         {
             "label": "التاشيرة",
-            "url": "‏https://sudafoot.com/دليل-تأشيرة-مصر-للسودانيين-2024-التفاصيل/",
+            "url": "‏https://sudafoot.com/دليل-تأشيرة-مصر-للسودانيين-2024-التفاصيل",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Priv",
-            "url": "/",
+            "label": "PPriv",
+            "url": "https://google.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
