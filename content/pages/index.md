@@ -7,7 +7,7 @@ sections:
       text: Sudafoot Sport Website
       color: text-dark
       type: TitleBlock
-    subtitle: صحيفة سودافووت١
+    subtitle: صحيفة سودافوون
     text: >
       صحيفة [سودافووت](https://sudafoot.com/).. موقع رياضي محترف يختص بكرة القدم
       السودانية مع تغطية متنوعة للكرة العربية والعالمية.. يقوم على الموقع طاقم
@@ -23,6 +23,10 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - label: صحيفة سودافووت
+        altText: ''
+        url: 'https://www.facebook.com/share/p/1UDJkctWYczFjfCq/?mibextid=WC7FNe'
+ 
       - label: See Tutorials
         altText: ''
         url: /
