@@ -13,7 +13,16 @@
         },
         {
             "label": "PPriv",
-            "url": "https://google.com",
+            "url": "https://yahoo.com",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+    
+        
+
+            "label": "PPPriv",
+            "url": "https://yahoo.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
