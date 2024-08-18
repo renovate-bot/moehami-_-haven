@@ -1,4 +1,4 @@
----
+
 type: PageLayout
 title: MOe Haven
 sections:
