@@ -1,6 +1,6 @@
 
 type: PageLayout
-title: MOe Haven
+title: oyster sauce vs fish sauce
 sections:
   - type: GenericSection
     title:
@@ -190,8 +190,8 @@ Both oyster sauce and fish sauce can add a depth of flavor to your cooking. Expe
 slug: myh
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: oyster sauce vs fish sauce
+  metaDescription: This is the oyster sauce vs fish sauce page
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
