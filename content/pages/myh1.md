@@ -187,7 +187,7 @@ Both oyster sauce and fish sauce can add a depth of flavor to your cooking. Expe
         justifyContent: center
       subtitle:
         textAlign: center
-slug: myh
+slug: myh1
 seo:
   type: Seo
   metaTitle: oyster sauce vs fish sauce
