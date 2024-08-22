@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Sudafoot Sport Website
+      text: Suda foot Sport Website
       color: text-dark
       type: TitleBlock
     subtitle: صحيفة سودافوون
