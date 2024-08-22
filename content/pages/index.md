@@ -26,7 +26,8 @@ sections:
       - label: مواعيد المدارس
         altText: ''
         url: 'https://sudafoot.com/%d9%83%d9%85-%d8%a8%d8%a7%d9%82%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87-%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84-%d9%8810-%d8%a5%d8%ac/'
- 
+   - label: تأشيرة مصر للسودانيين
+     url:'https://sudafoot.com/دليل-تأشيرة-'مصر-للسودانيين-2024-التفاصيل
   - title: Divider
     colors: bg-light-fg-dark
     styles:
