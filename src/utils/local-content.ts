@@ -30,6 +30,32 @@ function contentFilesInPath(dir: string) {
     return globSync(globPattern);
 }
 
+function readContent(file: string) {
+    const rawContent = fs.readFileSync(file, 'utf8');
+    let content = null;
+    switch (path.extname(file).substring(1)) {
+        case 'md':
+            const parsedMd = frontmatter<Record<string, any>>(rawContent);
+            content = {
+                ...parsedMd.attributes,
+                markdown_content: parsedMd.body
+            };
+            break;
+        case 'json':
+            content = JSON.parse(rawContent);
+            break;
+        default:
+            throw Error(`Unhandled file type: ${file}`);
+    }
+
+    // Make Sourcebit-compatible
+    content.__metadata = {
+        id: file,
+        modelName: content.type
+    };
+
+    return content;
+}
 
 function resolveReferences(content, fileToContent) {
     if (!content || !content.type) return;
