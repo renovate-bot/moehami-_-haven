@@ -22,7 +22,7 @@ Object.entries(allModels).forEach(([modelName, model]) => {
 
 function isRefField(modelName: string, fieldName: string) {
     return !!allReferenceFields[modelName + ':' + fieldName];
-}p
+}
 
 const supportedFileTypes = ['md', 'json'];
 function contentFilesInPath(dir: string) {
